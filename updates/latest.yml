@@ -1,8 +1,8 @@
 version: 0.0.1
 files:
-  - url: https://github.com/0x5123/electron-update-server/releases/download/v1.0.0/Agent.Launcher-Mac-0.0.1-Installer.zip
-    sha512: nJQdiRKYJ2oVxXCEDz9yzUQn9ctj4m3ratWrKsJ1lhJF2r2i3x6lmT7zTyylJ3QgZ5NisWVhuzj6mh95WS7a/Q==
-    size: 201314309
-path: https://github.com/0x5123/electron-update-server/releases/download/v1.0.0/Agent.Launcher-Mac-0.0.1-Installer.zip
-sha512: nJQdiRKYJ2oVxXCEDz9yzUQn9ctj4m3ratWrKsJ1lhJF2r2i3x6lmT7zTyylJ3QgZ5NisWVhuzj6mh95WS7a/Q==
-releaseDate: '2025-03-11T06:48:16.547Z'
+  - url: https://drive.google.com/file/d/1Pxtu1D9WJvxM5VLmwvxh1ZSzpyjfNtfz/view?usp=sharing
+    sha512: rvl5GnprzK8rVHNmyfLlNCn2Ioeaa9kLpkm1P8vt/SWpoqNKWzw6vAJTxGIpIif6GMqVuZu06URgyNvT+4FfBA==
+    size: 201317020
+path: https://drive.google.com/file/d/1Pxtu1D9WJvxM5VLmwvxh1ZSzpyjfNtfz/view?usp=sharing
+sha512: rvl5GnprzK8rVHNmyfLlNCn2Ioeaa9kLpkm1P8vt/SWpoqNKWzw6vAJTxGIpIif6GMqVuZu06URgyNvT+4FfBA==
+releaseDate: '2025-03-11T08:39:54.864Z'
