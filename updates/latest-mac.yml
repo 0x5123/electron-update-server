@@ -1,8 +1,8 @@
-version: 0.0.2
+version: 1.0.0-2025033108345
 files:
-  - url: https://github.com/0x5123/electron-update-server/releases/download/v.1.0.2/Agent.Launcher-Mac-0.0.2-Installer.zip
-    sha512: 7NZVtzmIbDeZi9A3yPgnCdA9y3l1JpknYxPWsPRZDnpNyXwpnSldeeeFFWU56yP/baiHIjrztq5YXkZSy8AkFg==
-    size: 201397121
-path: https://github.com/0x5123/electron-update-server/releases/download/v.1.0.2/Agent.Launcher-Mac-0.0.2-Installer.zip
-sha512: 7NZVtzmIbDeZi9A3yPgnCdA9y3l1JpknYxPWsPRZDnpNyXwpnSldeeeFFWU56yP/baiHIjrztq5YXkZSy8AkFg==
-releaseDate: '2025-03-11T09:11:39.681Z'
+  - url: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.1-testing/Vibe-1.0.0-2025033108345-universal-mac.zip
+    sha512: fyoOnBzd/EizBhQ7j2v5FjlXLzPe3reSyA1SR/HT0yIk4OOpF+OcLrjg6DwpYvOdvBLq4+CJLtIKaTVsWZjwzw==
+    size: 208890028
+path: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.1-testing/Vibe-1.0.0-2025033108345-universal-mac.zip
+sha512: fyoOnBzd/EizBhQ7j2v5FjlXLzPe3reSyA1SR/HT0yIk4OOpF+OcLrjg6DwpYvOdvBLq4+CJLtIKaTVsWZjwzw==
+releaseDate: '2025-03-31T08:43:52.871Z'
