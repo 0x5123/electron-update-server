@@ -1,11 +1,11 @@
 version: 1.0.10-2025040405592
 files:
-  - url: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040405592-universal-mac.zip
+  - url: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040407031-universal-mac.zip
     sha512: xqxxsQt7OI8RcLFFb1loqU4AzkbIgJbxhR20ecRT9Ia/69tOpqcoKTW1QJ9bgnINXX1CzbOWqTSn8gpCvb5png==
     size: 226073675
-  - url: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040405592-universal.dmg
+  - url: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040407031-universal.dmg
     sha512: FoSPinA6oYMrIUJTwzrKmGD8Q4XiwbsoYiVekV//aouc38EnEECZBZnzR2mziiGfg4WWCZrPF1EWxu8qAcU+7A==
     size: 234892710
-path: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040405592-universal-mac.zip
+path: https://github.com/eternalai-org/eternal-ai/releases/download/vibe-1.0.5-testing/Vibe-1.0.10-2025040407031-universal-mac.zip
 sha512: xqxxsQt7OI8RcLFFb1loqU4AzkbIgJbxhR20ecRT9Ia/69tOpqcoKTW1QJ9bgnINXX1CzbOWqTSn8gpCvb5png==
 releaseDate: '2025-04-04T06:11:26.593Z'
