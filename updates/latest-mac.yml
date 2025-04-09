@@ -1,11 +1,11 @@
-version: 1.1.0-2025040904513
+version: 1.1.0-2025040906435
 files:
-  - url: Vibe-1.1.0-2025040904513-universal-mac.zip
-    sha512: K8WnLCFuMKJnDmXRZlBkFGJux4XdiKD5Blh9/pV+oYTnNrlhKk/Shx6LxTWWcs9VV/0odrLXObbhQPlCk80enw==
-    size: 226152277
-  - url: Vibe-1.1.0-2025040904513-universal.dmg
-    sha512: KTX/GjHzUvyPTLmNn9h/TPCtLNX/nGg/vFoH1NnAwK0HDbiucQgW+LgZam6nTnyYpb3K4SWiM4nG8OL7DP8VAQ==
-    size: 235007849
-path: Vibe-1.1.0-2025040904513-universal-mac.zip
-sha512: K8WnLCFuMKJnDmXRZlBkFGJux4XdiKD5Blh9/pV+oYTnNrlhKk/Shx6LxTWWcs9VV/0odrLXObbhQPlCk80enw==
-releaseDate: '2025-04-09T05:29:39.474Z'
+  - url: Vibe-1.1.0-2025040906435-universal-mac.zip
+    sha512: XbEXJCjTyvFLaQZl2lMQNbRldQ3dOlxGdg2uDrljyxz/FUF7kkt5W6yOR4wM27UxtOu1S/YFWOeOU5gDInJleg==
+    size: 226151752
+  - url: Vibe-1.1.0-2025040906435-universal.dmg
+    sha512: YW2PPECZr7ZrsA2bL7zPV/BGu4cbhou5KwC/I+9CkDN76rOPFbBm1vjYOmNKz7PFcHi0AQWaGtnKQ4wWtwot2g==
+    size: 235040717
+path: Vibe-1.1.0-2025040906435-universal-mac.zip
+sha512: XbEXJCjTyvFLaQZl2lMQNbRldQ3dOlxGdg2uDrljyxz/FUF7kkt5W6yOR4wM27UxtOu1S/YFWOeOU5gDInJleg==
+releaseDate: '2025-04-09T06:56:07.237Z'
