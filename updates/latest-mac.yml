@@ -1,11 +1,11 @@
-version: "25.0.27"
+version: "25.0.28"
 files:
-  - url: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.27/Vibe-25.0.27-universal-mac.zip"
-    sha512: "HhGatRvGGgblVk4X/kacjFgx6VWGp/KhzcboE8wyRBj7ldjBoWdga1JMnSIjlyVsuQGMsf7CdTgJtUPCa9BL3w=="
-    size: 226201535
-  - url: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.27/Vibe-25.0.27-universal.dmg"
-    sha512: "DkqxDwBFDgOTf1p8EedOU1wUlu6Q9Xq8LOPVUZcquR/7xugSv3rlkuPFNEMXkN1rnmhExQgzukseyuOIrY5Saw=="
-    size: 235060306
-path: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.27/Vibe-25.0.27-universal-mac.zip"
-sha512: "HhGatRvGGgblVk4X/kacjFgx6VWGp/KhzcboE8wyRBj7ldjBoWdga1JMnSIjlyVsuQGMsf7CdTgJtUPCa9BL3w=="
-releaseDate: "2025-04-11T06:47:33.020Z"
+  - url: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.28/Vibe-25.0.28-universal-mac.zip"
+    sha512: "lxsG0RkDuQzR8mdlkeeH8DjY7UPw3GZyq8Kg/XeZr+1g65749DGVEWidnlW5OSwr7OAbQmruBwrErhrxcMCa/w=="
+    size: 226201529
+  - url: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.28/Vibe-25.0.28-universal.dmg"
+    sha512: "oAIJqUHGD6+qV/UyHB8mLI/TFbEwPiqyqsob8xM39HHDJdfF1Vh0b8lfcO1GAU+gku7qfJAMhEjYnZ8RussU6g=="
+    size: 235060836
+path: "https://github.com/eternalai-org/eternal-ai/releases/download/v25.0.28/Vibe-25.0.28-universal-mac.zip"
+sha512: "lxsG0RkDuQzR8mdlkeeH8DjY7UPw3GZyq8Kg/XeZr+1g65749DGVEWidnlW5OSwr7OAbQmruBwrErhrxcMCa/w=="
+releaseDate: "2025-04-11T07:35:09.207Z"
