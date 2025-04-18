@@ -1,11 +1,11 @@
-version: "25.0.74"
+version: "25.0.75"
 files:
-  - url: "https://github.com/eternalai-org/vibe/releases/download/v25.0.74/Vibe-25.0.74-universal-mac.zip"
-    sha512: "MuMkPzd4aDIoFZtEdyBHUis2+Kj4McSyfvVo7lYWFktlmE6uMqOITZG939OseOwoB43JJ6g8Pegz/7OiQEf08Q=="
-    size: 303900608
-  - url: "https://github.com/eternalai-org/vibe/releases/download/v25.0.74/Vibe-25.0.74-universal.dmg"
-    sha512: "ADh9e/ZrxlrNr+c6/uILNSKQ8ISmqxZKp7kLh/icnmVejlUCkzUnDOD+VCakZEKL7b60u53ZVxkab1jl1odqhg=="
-    size: 315944860
-path: "https://github.com/eternalai-org/vibe/releases/download/v25.0.74/Vibe-25.0.74-universal-mac.zip"
-sha512: "MuMkPzd4aDIoFZtEdyBHUis2+Kj4McSyfvVo7lYWFktlmE6uMqOITZG939OseOwoB43JJ6g8Pegz/7OiQEf08Q=="
-releaseDate: "2025-04-17T10:46:20.837Z"
+  - url: "https://github.com/eternalai-org/vibe/releases/download/v25.0.75/Vibe-25.0.75-universal-mac.zip"
+    sha512: "6g/rVtNVFG8bb5upOK9ED+mcLMpk5Jzul7YTJd7AETC77HBnloVq+Iob3Y+qsxUm7o/a/ggLJdBQi78IujS8Sw=="
+    size: 321396699
+  - url: "https://github.com/eternalai-org/vibe/releases/download/v25.0.75/Vibe-25.0.75-universal.dmg"
+    sha512: "vzjLI6ZfLbCKXadGiUnHk0q3313E4Nqttb7Z8yjwCi5GzK4TabA5IAA/g3+5niEjRAhGyVyyTnfLTATHdK0yeQ=="
+    size: 334105055
+path: "https://github.com/eternalai-org/vibe/releases/download/v25.0.75/Vibe-25.0.75-universal-mac.zip"
+sha512: "6g/rVtNVFG8bb5upOK9ED+mcLMpk5Jzul7YTJd7AETC77HBnloVq+Iob3Y+qsxUm7o/a/ggLJdBQi78IujS8Sw=="
+releaseDate: "2025-04-18T04:55:51.004Z"
