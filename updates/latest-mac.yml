@@ -1,11 +1,11 @@
-version: "25.0.92"
+version: "25.0.87"
 files:
-  - url: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.92/Vibe-25.0.92-universal-mac.zip"
-    sha512: "FqMbOf/Rm1AJVb5aPszGuoePyf9xHlR26gcXhxkqyeH6/zH4WjXQXB1rc0f15yVNlFrIJAcH2hf7u99TiDnDaQ=="
-    size: 324116634
-  - url: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.92/Vibe-25.0.92-universal.dmg"
-    sha512: "WyeuGvpeqIRyn1TzwBETfHslxkLGuzPtRHRxsTIQ/K8KzDi70IU6x7eJyYFiVDVSPw7SY60bUM2xmnJa0siH1Q=="
-    size: 337025840
-path: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.92/Vibe-25.0.92-universal-mac.zip"
-sha512: "FqMbOf/Rm1AJVb5aPszGuoePyf9xHlR26gcXhxkqyeH6/zH4WjXQXB1rc0f15yVNlFrIJAcH2hf7u99TiDnDaQ=="
-releaseDate: "2025-04-28T08:19:13.039Z"
+  - url: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.87/Vibe-25.0.87-universal-mac.zip"
+    sha512: "YzaQrYKqUZo4yuq7XyCFRacAlZxpYK4F34BRLnFMfJoIJMQNSkEhvwsQKCuL6N7KZY084zO2oMKe8idc4nW6+A=="
+    size: 324114461
+  - url: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.87/Vibe-25.0.87-universal.dmg"
+    sha512: "+WF3fKZZGJXKmaZmogEQbEylqwcRIkIEqmQvUySiuBZqz2qtXiqYsP1FTPVvs0aiY9BYcFSmzb45ssCFAD4+NQ=="
+    size: 336994316
+path: "https://github.com/0x5123/electron-update-server/releases/download/v25.0.87/Vibe-25.0.87-universal-mac.zip"
+sha512: "YzaQrYKqUZo4yuq7XyCFRacAlZxpYK4F34BRLnFMfJoIJMQNSkEhvwsQKCuL6N7KZY084zO2oMKe8idc4nW6+A=="
+releaseDate: "2025-04-30T01:58:21.988Z"
